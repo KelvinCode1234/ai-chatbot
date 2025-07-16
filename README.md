@@ -1,6 +1,6 @@
-<a href="https://github.com/KelvinCode1234/ai-chatbot">
-  <img alt="FastAPI-powered AI chatbot with staff approval and knowledge base" src="assets/opengraph-image.png">
-  <h1 align="center">AIChatbot</h1>
+<a href="https://chat.vercel.ai/">
+  <img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/opengraph-image.png">
+  <h1 align="center">Chat SDK</h1>
 </a>
 
 <p align="center">
